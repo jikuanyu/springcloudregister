@@ -1,0 +1,16 @@
+server:
+  port: 7002
+
+eureka:
+  instance:
+    hostname: 7002.cn #eureka服务端的实例名称
+  client:
+    #表明不向注册中心注册自己
+    register-with-eureka: false
+    #自己就是注册中心，无需获取任何注册的东西
+    fetch-registry: false
+    service-url:
+      defaultZone: http://7001.cn:7001/eureka
+
+
+
