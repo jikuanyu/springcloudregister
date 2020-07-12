@@ -11,10 +11,10 @@ mybatis:
 
 spring:
   datasource:
-      url: jdbc:mariadb://localhost:6606/test
-      username: root
-      password: 123456
-      driverClassName: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:6606/test
+    username: root
+    password: 123456
+    driverClassName: org.mariadb.jdbc.Driver
   application:
     name: pay-ment
 
@@ -27,3 +27,12 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://7001.cn:7001/eureka,http://7002.cn:7002/eureka
+  instance:
+    #主机名
+    instance-id: instance8002
+    #鼠标放上显示ip
+    prefer-ip-address: true
+    #eureka服务端收到最后一个心跳等待时间上限。超过这个时间将被删除。默认是90
+    lease-expiration-duration-in-seconds: 2
+    #eureka向服务器发送时间的间隔。默认30
+    lease-renewal-interval-in-seconds: 1
