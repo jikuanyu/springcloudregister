@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: pay-ment-zk-service
+
+  cloud:
+     zookeeper:
+       connect-string: localhost:2181
+server:
+  port: 8005

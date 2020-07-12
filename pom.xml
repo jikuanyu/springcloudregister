@@ -14,6 +14,8 @@
         <module>eureka-server</module>
         <module>eureka-server2</module>
         <module>pay-ment8002</module>
+        <module>pay-ment-8005zk</module>
+        <module>pay-orderzk80</module>
     </modules>
     <packaging>pom</packaging>
 
