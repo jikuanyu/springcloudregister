@@ -1,6 +1,6 @@
 package com.yjk.springcloud.pay.service.impl;
 
-import com.yjk.springcloud.entity.PayMent;
+import com.yjk.springcloud.springcloud.entity.PayMent;
 import com.yjk.springcloud.pay.dao.PayMentDao;
 
 import com.yjk.springcloud.pay.service.PlayMentService;

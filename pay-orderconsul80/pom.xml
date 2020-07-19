@@ -9,28 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>pay-ment-8005zk</artifactId>
+    <artifactId>pay-orderconsul80</artifactId>
+
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-zookeeper-discovery</artifactId>
-           <!-- <exclusions>
-                <exclusion>
-                    <groupId>org.apache.zookeeper</groupId>
-                    <artifactId>zookeeper</artifactId>
-                </exclusion>
-            </exclusions>-->
+            <artifactId>spring-cloud-starter-consul-discovery</artifactId>
+            <!--   <version>2.2.3.RELEASE</version>-->
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
-      <!--  <dependency>
-            <groupId>org.apache.zookeeper</groupId>
-            <artifactId>zookeeper</artifactId>
-            <version>3.6.1</version>
-        </dependency>-->
-
-
         <dependency>
             <groupId>com.yjk.springcloud</groupId>
             <artifactId>pay-common</artifactId>
@@ -61,7 +48,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>2.2.8.RELEASE</version>
+                <!--<version>2.2.8.RELEASE</version>-->
             </plugin>
         </plugins>
     </build>

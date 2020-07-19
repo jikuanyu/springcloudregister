@@ -1,8 +1,8 @@
 package com.yjk.springcloud.order.controller;
 
 
-import com.yjk.springcloud.entity.CommonResult;
-import com.yjk.springcloud.entity.PayMent;
+import com.yjk.springcloud.springcloud.entity.CommonResult;
+import com.yjk.springcloud.springcloud.entity.PayMent;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

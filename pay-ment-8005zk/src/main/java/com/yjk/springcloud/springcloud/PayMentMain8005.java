@@ -1,4 +1,4 @@
-package com.yjk.springcloud;
+package com.yjk.springcloud.springcloud;
 
 
 import org.springframework.boot.SpringApplication;

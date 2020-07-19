@@ -1,0 +1,12 @@
+server:
+  port: 8006
+
+
+spring:
+  application:
+    name: pay-ment-consul
+    cloud:
+      consul:
+        host: localhost
+        port: 8500
+

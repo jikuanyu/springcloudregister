@@ -1,6 +1,5 @@
 package com.yjk.springcloud.pay.controller;
 
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -8,15 +7,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 @RestController
-@Slf4j
-public class PayMentController {
-
+public class PayMentConsulController {
     @Value("${server.port}")
     private String serverPort;
 
-    @RequestMapping("pays/paytest")
+    @RequestMapping("pays/consul")
     public String payTest() {
-        return "zk serverPort="+serverPort+",uuid ="+ UUID.randomUUID().toString();
+        return "consul serverPort="+serverPort+",uuid ="+ UUID.randomUUID().toString();
     }
-
 }
