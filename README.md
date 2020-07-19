@@ -15,3 +15,7 @@
 ## consul
 文档：consul.note
 链接：http://note.youdao.com/noteshare?id=c326c472d17626927e34f19a0f5d5b20&sub=94E9D9659CB44F3EADBE2597AE92CE20
+
+## 总结注册中心CAP
+文档：注册中心总结.note
+链接：http://note.youdao.com/noteshare?id=fde92db14c39dfca61bdf3ed0d1d005c&sub=67DF9BD185B445D9B029B7A91A37ECDA
