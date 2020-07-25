@@ -19,3 +19,7 @@
 ## 总结注册中心CAP
 文档：注册中心总结.note
 链接：http://note.youdao.com/noteshare?id=fde92db14c39dfca61bdf3ed0d1d005c&sub=67DF9BD185B445D9B029B7A91A37ECDA
+
+## ribbon
+文档：ribbon负载均衡和调用.note
+链接：http://note.youdao.com/noteshare?id=a752be0da4766524897e2288cc07524a&sub=76879D4789644E849E886CD46F4C01BE
