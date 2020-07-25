@@ -15,10 +15,10 @@ public class CommonResult<T> implements Serializable {
 
     public static<T> CommonResult<T> valueOf(T data)
     {
-        return new CommonResult<T>(500,"",data);
+        return new CommonResult<T>(200,"",data);
     }
     public static<T> CommonResult<T> valueOf(T data,String message)
     {
-        return new CommonResult<T>(500,message,data);
+        return new CommonResult<T>(200,message,data);
     }
 }

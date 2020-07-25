@@ -23,3 +23,8 @@
 ## ribbon
 文档：ribbon负载均衡和调用.note
 链接：http://note.youdao.com/noteshare?id=a752be0da4766524897e2288cc07524a&sub=76879D4789644E849E886CD46F4C01BE
+
+## openfeign
+
+文档：openfeign.note
+链接：http://note.youdao.com/noteshare?id=991550e14633738b865094ba461fec4b&sub=85C967ADDE0B4C5689E727D965C63581

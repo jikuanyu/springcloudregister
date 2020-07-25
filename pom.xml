@@ -18,6 +18,7 @@
         <module>pay-orderzk80</module>
         <module>pay-ment-8006consul</module>
         <module>pay-orderconsul80</module>
+        <module>pay-orderfeign80</module>
     </modules>
     <packaging>pom</packaging>
 

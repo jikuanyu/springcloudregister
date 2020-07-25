@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.concurrent.TimeUnit;
+
 @RestController
 @Slf4j
 public class PayMentController {
@@ -28,5 +30,9 @@ public class PayMentController {
         return CommonResult.valueOf(playMentService.getPayMentById(id),"server.port="+serverPort);
     }
 
-
+    @RequestMapping("/pays/timeout")
+    public String timeout() throws InterruptedException {
+        TimeUnit.SECONDS.sleep(2);
+        return serverPort;
+    }
 }

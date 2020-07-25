@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
 @RestController
 @Slf4j
@@ -50,5 +51,10 @@ public class PayMentController {
        }
        return map;
    }
+    @RequestMapping("/pays/timeout")
+    public String timeout() throws InterruptedException {
+        TimeUnit.SECONDS.sleep(2);
+        return serverPort;
+    }
 
 }
