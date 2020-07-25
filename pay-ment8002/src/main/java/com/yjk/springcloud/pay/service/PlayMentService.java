@@ -1,6 +1,6 @@
 package com.yjk.springcloud.pay.service;
 
-import com.yjk.springcloud.springcloud.entity.PayMent;
+import com.yjk.springcloud.entity.PayMent;
 
 
 public interface PlayMentService {

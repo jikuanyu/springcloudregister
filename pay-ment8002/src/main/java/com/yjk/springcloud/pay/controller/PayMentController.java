@@ -1,8 +1,8 @@
 package com.yjk.springcloud.pay.controller;
 
 
-import com.yjk.springcloud.springcloud.entity.CommonResult;
-import com.yjk.springcloud.springcloud.entity.PayMent;
+import com.yjk.springcloud.entity.CommonResult;
+import com.yjk.springcloud.entity.PayMent;
 import com.yjk.springcloud.pay.service.PlayMentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
