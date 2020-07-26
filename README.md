@@ -1,5 +1,5 @@
 # springcloudregister
-进行springcloud注册中心的学习
+进行springcloud相关的学习
 
 仅仅个人学习记录，本人通过搜集网络相关资源进行个人学习，有些非原始创作如有侵权和疑问请告知。微信号：yujkuan1
 
@@ -28,3 +28,9 @@
 
 文档：openfeign.note
 链接：http://note.youdao.com/noteshare?id=991550e14633738b865094ba461fec4b&sub=85C967ADDE0B4C5689E727D965C63581
+
+
+## hystrix
+
+文档：hystrix和涉及理论.note
+链接：http://note.youdao.com/noteshare?id=41af256c07e13f6f09800ceac77807d9&sub=8BB66CA109BE4619ACA1ED134D78834B
