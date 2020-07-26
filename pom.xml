@@ -19,6 +19,8 @@
         <module>pay-ment-8006consul</module>
         <module>pay-orderconsul80</module>
         <module>pay-orderfeign80</module>
+        <module>pay-ment-hystrix8001</module>
+        <module>pay-order-hystrix80</module>
     </modules>
     <packaging>pom</packaging>
 

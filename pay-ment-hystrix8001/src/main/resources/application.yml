@@ -1,0 +1,14 @@
+server:
+  port: 8001
+
+eureka:
+  client:
+    #向注册中心注册自己
+    register-with-eureka: true
+    #获取注册的东西
+    fetch-registry: true
+    service-url:
+      defaultZone: http://7001.cn:7001/eureka
+spring:
+  application:
+    name: hystrix-pay-ment
