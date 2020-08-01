@@ -34,3 +34,16 @@
 
 文档：hystrix和涉及理论.note
 链接：http://note.youdao.com/noteshare?id=41af256c07e13f6f09800ceac77807d9&sub=8BB66CA109BE4619ACA1ED134D78834B
+
+文档：hystrix熔断.note
+链接：http://note.youdao.com/noteshare?id=e5c4442a95b765997ddbc736729f4fe2&sub=B6C4D5E238734EF1BBC8AFEDAF1F1EF7
+
+文档：SpringCloud-Hystrix原理.note
+链接：http://note.youdao.com/noteshare?id=d24c4b078f441690584dcdaf9c263e8f&sub=D5893CBA918449AA875D5BF33B83DBD5
+
+文档：Hystrix仪表盘.note
+链接：http://note.youdao.com/noteshare?id=9a510bb06f14c897503ee1656905bb85&sub=DA0EC68E2CBC426F8198B4114196CE8B
+
+
+## gateway
+

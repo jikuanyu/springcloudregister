@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author: yujikuan
  * @Description:
  */
-@FeignClient(name="hystrix-pay-ment")
+@FeignClient(name="hystrix-pay-ment",fallback = PayServiceFallBack.class)
 public interface PayService {
 
     @RequestMapping("/pays/ok/{id}")

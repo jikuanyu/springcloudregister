@@ -35,5 +35,11 @@ public class PayMentConroller {
         return s;
 
     }
+    @RequestMapping("/pays/test/{id}")
+    public String test(@PathVariable("id") int id){
+
+        return payMentService.test(id);
+    }
+
 
 }
