@@ -22,6 +22,7 @@
         <module>pay-ment-hystrix8001</module>
         <module>pay-order-hystrix80</module>
         <module>pay-hystrix9001</module>
+        <module>cloud-gateway9500</module>
     </modules>
     <packaging>pom</packaging>
 
