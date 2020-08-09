@@ -47,3 +47,5 @@
 
 ## gateway
 
+文档：springcloud gateway.note
+链接：http://note.youdao.com/noteshare?id=1e8a805856d933d2dcc537c8b77e7408&sub=58C7CD83AFE249C9A29C062C02F7BE45
