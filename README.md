@@ -49,3 +49,9 @@
 
 文档：springcloud gateway.note
 链接：http://note.youdao.com/noteshare?id=1e8a805856d933d2dcc537c8b77e7408&sub=58C7CD83AFE249C9A29C062C02F7BE45
+
+文档：springcloud gateway predicate（断言
+链接：http://note.youdao.com/noteshare?id=45bacc239882937ddf4f3c711eabb80f&sub=7F50CFED7842495DA8EE219BA73432FE
+
+文档：spring cloud gateway 的filter.note
+链接：http://note.youdao.com/noteshare?id=cd2da46b32c47e147e8abdafc39680f5&sub=341ABEBE24C041AEA939210584D99555
