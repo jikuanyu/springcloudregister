@@ -55,3 +55,8 @@
 
 文档：spring cloud gateway 的filter.note
 链接：http://note.youdao.com/noteshare?id=cd2da46b32c47e147e8abdafc39680f5&sub=341ABEBE24C041AEA939210584D99555
+
+## springcloud config
+ 
+文档：springcloud config 分布式配置中心.no...
+链接：http://note.youdao.com/noteshare?id=062e85a28bdf61073fe19da2c212224e&sub=5420DE195C934FE6AEA8FC33E17E2A7C
