@@ -23,6 +23,7 @@
         <module>pay-order-hystrix80</module>
         <module>pay-hystrix9001</module>
         <module>cloud-gateway9500</module>
+        <module>pay-config</module>
     </modules>
     <packaging>pom</packaging>
 
