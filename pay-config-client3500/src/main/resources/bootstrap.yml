@@ -1,5 +1,5 @@
 server:
-  port: 3344
+  port: 3500
 
 
 eureka:
@@ -15,11 +15,17 @@ spring:
     name: pay-config
   cloud:
     config:
-      server:
-        git:
-          uri: https://github.com/jikuanyu/springcloud-config.git
-          search-paths:
-            - springcloud-config
+      #注册服务服务地址
+      uri: http://localhost:3344/
+      # git 的分支
       label: master
+      #配置文件
+      name: config
+      #profile
+      profile: prod
 
-
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

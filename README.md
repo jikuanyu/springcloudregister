@@ -60,3 +60,8 @@
  
 文档：springcloud config 分布式配置中心.no...
 链接：http://note.youdao.com/noteshare?id=062e85a28bdf61073fe19da2c212224e&sub=5420DE195C934FE6AEA8FC33E17E2A7C
+
+
+## bus消息总线
+文档：bus消息总线.note
+链接：http://note.youdao.com/noteshare?id=33bfee528c00cf8ddc7ac54093f32dcd&sub=0DEBCBBD60AF44B09FA5725BB29BD39E
