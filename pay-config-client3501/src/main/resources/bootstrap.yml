@@ -1,5 +1,5 @@
 server:
-  port: 3500
+  port: 3501
 
 
 eureka:
@@ -12,7 +12,7 @@ eureka:
       defaultZone: http://7001.cn:7001/eureka
 spring:
   application:
-    name: pay-config
+    name: pay-config3501
   cloud:
     config:
       #注册服务服务地址
@@ -34,4 +34,4 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: "bus-refresh"

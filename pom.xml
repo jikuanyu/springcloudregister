@@ -25,6 +25,7 @@
         <module>cloud-gateway9500</module>
         <module>pay-config</module>
         <module>pay-config-client</module>
+        <module>pay-config-client3501</module>
     </modules>
     <packaging>pom</packaging>
 
