@@ -65,3 +65,7 @@
 ## bus消息总线
 文档：bus消息总线.note
 链接：http://note.youdao.com/noteshare?id=33bfee528c00cf8ddc7ac54093f32dcd&sub=0DEBCBBD60AF44B09FA5725BB29BD39E
+
+
+##SpringCloud Stream消息驱动
+https://www.cnblogs.com/leeego-123/p/12694312.html
