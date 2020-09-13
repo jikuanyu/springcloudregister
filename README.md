@@ -69,3 +69,7 @@
 
 ##SpringCloud Stream消息驱动
 https://www.cnblogs.com/leeego-123/p/12694312.html
+文档：springcloud stream.note
+链接：http://note.youdao.com/noteshare?id=e91e9c7b7de618a6bdbfeb57ab96b4e7&sub=FECA4D4606584DD8BDD07046CF41FCEB
+
+
