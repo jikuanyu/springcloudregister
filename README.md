@@ -73,3 +73,6 @@ https://www.cnblogs.com/leeego-123/p/12694312.html
 链接：http://note.youdao.com/noteshare?id=e91e9c7b7de618a6bdbfeb57ab96b4e7&sub=FECA4D4606584DD8BDD07046CF41FCEB
 
 
+## SpringCloud Sleuth分布式请求链路追踪
+文档：SpringCloud Sleuth分布式请求链路追踪...
+链接：http://note.youdao.com/noteshare?id=488863dbbf8df7cda4fbb52cef1758f9&sub=D55D6E5FDE45451AA63C3748732B6044

@@ -17,6 +17,11 @@ spring:
       driverClassName: org.mariadb.jdbc.Driver
   application:
     name: pay-ment
+  zipkin:
+     base-url: http://localhost:9411/
+  sleuth:
+    sampler:
+      probability: 1  #采样率值介于θ到1之间，1则表示全部来集
 
 
 eureka:
