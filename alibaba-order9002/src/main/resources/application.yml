@@ -1,0 +1,6 @@
+provider:
+  url: http://provider/getProviderPort
+
+spring:
+   profiles:
+     active: dev

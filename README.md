@@ -67,7 +67,7 @@
 链接：http://note.youdao.com/noteshare?id=33bfee528c00cf8ddc7ac54093f32dcd&sub=0DEBCBBD60AF44B09FA5725BB29BD39E
 
 
-##SpringCloud Stream消息驱动
+## SpringCloud Stream消息驱动
 https://www.cnblogs.com/leeego-123/p/12694312.html
 文档：springcloud stream.note
 链接：http://note.youdao.com/noteshare?id=e91e9c7b7de618a6bdbfeb57ab96b4e7&sub=FECA4D4606584DD8BDD07046CF41FCEB
@@ -76,3 +76,10 @@ https://www.cnblogs.com/leeego-123/p/12694312.html
 ## SpringCloud Sleuth分布式请求链路追踪
 文档：SpringCloud Sleuth分布式请求链路追踪...
 链接：http://note.youdao.com/noteshare?id=488863dbbf8df7cda4fbb52cef1758f9&sub=D55D6E5FDE45451AA63C3748732B6044
+
+
+## nacos
+文档：springcloudalibaba 介绍.note
+链接：http://note.youdao.com/noteshare?id=8155fedc640958461dfbaf26ca7aaf85&sub=ED91636A7F5346B2A3215B9920F6E1D4
+文档：nacos.note
+链接：http://note.youdao.com/noteshare?id=d3595ae69a7905a52b4aaf1f6ad44c00&sub=C55905D17CB84B549C14BDD5F0A42FE5
