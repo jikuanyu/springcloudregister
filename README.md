@@ -83,3 +83,7 @@ https://www.cnblogs.com/leeego-123/p/12694312.html
 链接：http://note.youdao.com/noteshare?id=8155fedc640958461dfbaf26ca7aaf85&sub=ED91636A7F5346B2A3215B9920F6E1D4
 文档：nacos.note
 链接：http://note.youdao.com/noteshare?id=d3595ae69a7905a52b4aaf1f6ad44c00&sub=C55905D17CB84B549C14BDD5F0A42FE5
+
+## sentinel
+文档：Sentinel-流控.note
+链接：http://note.youdao.com/noteshare?id=ed766e1dc0223e2180c0f22fd3ac7ce5&sub=84248E1EE5CF469F98724639DDE94A83
