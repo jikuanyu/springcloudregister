@@ -1,5 +1,7 @@
 package com.yjk.springclould.sentinel;
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
+import com.alibaba.csp.sentinel.slots.block.BlockException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -43,5 +45,16 @@ public class FlowLimitController {
         throw new RuntimeException("i="+i);
     }
         return "----testE";
+    }
+
+    @GetMapping("/testF")
+    @SentinelResource(value = "TESTf",blockHandler = "testFail")
+    public String testF(String p1,String p2)  {
+
+        return "----testE,p1="+p1+",p2="+p2;
+    }
+    public String testFail(String p1, String p2, BlockException be){
+
+          return "Fail ----testE,p1="+p1+",p2="+p2+","+be;
     }
 }
