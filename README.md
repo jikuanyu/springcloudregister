@@ -87,3 +87,5 @@ https://www.cnblogs.com/leeego-123/p/12694312.html
 ## sentinel
 文档：Sentinel-流控.note
 链接：http://note.youdao.com/noteshare?id=ed766e1dc0223e2180c0f22fd3ac7ce5&sub=84248E1EE5CF469F98724639DDE94A83
+文档：Sentinel-降级.note
+链接：http://note.youdao.com/noteshare?id=97236dedeea590ebde05570b4b7b8f9d&sub=5C74DEDFDB9E4FBFA5F5F0E76B9FA9E1
